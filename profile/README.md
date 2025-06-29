@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/banner.png" alt="CROS.Code logo" width="100%"/>
+  <img src="./banner.png" alt="CROS.Code logo" width="100%"/>
 </div>
 
 # CROS.Code®
