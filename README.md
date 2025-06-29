@@ -1,4 +1,6 @@
-<img src='/logo.png'  />
+<div align="center">
+  <img src="/banner.png" alt="CROS.Code logo" width="100%"/>
+</div>
 
 # CROS.Code®
 
