@@ -1,21 +1,17 @@
 <div align="center">
-  <img src="./banner.png" alt="CROS.Code logo" width="100%"/>
+<img src="./banner.png" alt="CROS.Code logo" width="100%"/>
 </div>
 
-# CROS.Code®
+## Web & Mobile Development • Consulting • Audit • Training
 
-#### Développement web & mobile — applications sur mesure, modernes et fiables.
+Support for organizations across product design and architecture, custom web and mobile development, as well as consulting, audits, and training, leveraging modern technologies (React/Next.js, React Native/Expo, Node.js, REST/GraphQL, PostgreSQL/MongoDB) and a Domain‑Driven Design (DDD) approach aligned with the business domain; infrastructure capability available (Docker, managed services like Google Cloud/AWS) when needed to secure deployments and CI/CD without positioning it as the primary focus.
 
-Bienvenue sur la page de l'organisation **CROS.Code®**.
+<hr style="border:0;border-top:1px solid #d0d7de;"/>
 
-#### Stack couramment utilisée
+### Contact
 
-- **Front-end** : React, Next.js, Tailwind, TypeScript
-- **Mobile** : React Native (Expo ou CLI)
-- **Back-end** : Symfony, NestJS, Express
-- **API** : REST, GraphQL
-- **Base de données** : PostgreSQL, MongoDB, MySQL
-- **DevOps** : GitHub Actions, Docker, Vercel, etc.
+- Website: https://oriancros.com
+- Email: contact@oriancros.com
+- LinkedIn: https://www.linkedin.com/in/orian-cros
 
-
-_® CROS.Code — Accompagner vos idées._
+_®CROS.Code — Support your business._
