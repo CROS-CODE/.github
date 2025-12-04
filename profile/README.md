@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./banner.png" alt="CROS.Code logo" width="100%"/>
+<img src="./cover.png" alt="CROS.Code page cover" width="100%"/>
 </div>
 
 ## Web & Mobile Development • Consulting • Audit • Training
